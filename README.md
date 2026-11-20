@@ -87,6 +87,10 @@ to be correct, traceable and idempotent.
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white">
   <img src="https://img.shields.io/badge/SendGrid-51A9E3?style=for-the-badge&logo=sendgrid&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Business_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Reviews-34A853?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white">
 </p>
 
 ---
@@ -99,7 +103,7 @@ to be correct, traceable and idempotent.
 | **Multi-tenancy** | Per-tenant schemas, tenant context across threads and queues, cache keys that never leak between companies. |
 | **Async & reliability** | RabbitMQ with dead-letter queues, retry classification, at-most-once publishing on commit, idempotent webhook handling. |
 | **Reporting** | Native SQL over large tables, paging strategies, streaming exports, PostGIS. |
-| **Integrations** | Payment gateways, telephony, email, push — including the unglamorous parts: signatures, checksums, callback replays. |
+| **Integrations** | Payment gateways, telephony, email, push, Slack apps, Google Business Profile & Reviews — including the unglamorous parts: OAuth flows, signatures, checksums, callback replays. |
 | **Documents** | HTML → PDF generation pipelines (invoices, estimates) with templating and custom fonts. |
 
 ---
